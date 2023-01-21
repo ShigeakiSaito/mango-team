@@ -1,6 +1,6 @@
-#Cocomate 
+# Cocomate 
 
-#mango-team-developer
+# mango-team-developer
 
 # gulp-dev_static_flocss_PCtoSP
 
